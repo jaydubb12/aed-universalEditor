@@ -1,5 +1,6 @@
+# https://<aem-author>/bin/franklin.delivery/<owner>/<repository>/main
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
+    url: "https://author-p34703-e1728283.adobeaemcloud.com/bin/franklin.delivery/jaydubb12/aed-universalEditor/main"
     type: "markup"
     suffix: ".html"
