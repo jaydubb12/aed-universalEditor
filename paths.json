@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/aed-universalEditor/:/",
+    "/content/aed-universalEditor/configuration:/.helix/config.json",
+    "/content/aed-universalEditor/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/aed-universalEditor/"
   ]
 }

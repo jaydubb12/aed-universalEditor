@@ -4,7 +4,7 @@ Sample project to evaluate, test and learn the nuances of the AEM EDS solutions 
 ## Environments
 Check back in the future for links / updates
 
-<!-- - Preview: https://main--{repo}--{owner}.aem.page/ -->
+<!-- - Preview: https://main--aed-universalEditor--jaydubb12.aem.page/ -->
 <!-- - Live: https://main--{repo}--{owner}.aem.live/ -->
 
 ## Adobe Documentation
