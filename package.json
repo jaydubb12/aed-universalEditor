@@ -1,8 +1,8 @@
 {
-  "name": "@adobe/aem-boilerplate",
+  "name": "@jaydubb12/aed-universal-editor",
   "private": true,
-  "version": "1.3.0",
-  "description": "Starter project for Adobe Helix",
+  "version": "1.0.0",
+  "description": "Starter kit for building AEM components with a focus on the Universal Editor.",
   "engines": {
     "node": ">22.15"
   },
@@ -26,7 +26,6 @@
   "bugs": {
     "url": "https://github.com/adobe/aem-boilerplate/issues"
   },
-  "homepage": "https://github.com/adobe/aem-boilerplate#readme",
   "devDependencies": {
     "@babel/eslint-parser": "7.28.0",
     "eslint": "8.57.1",
