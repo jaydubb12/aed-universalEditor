@@ -2,10 +2,10 @@
 Sample project to evaluate, test and learn the nuances of the AEM EDS solutions & platform
 
 ## Environments
-Check back in the future for links / updates
-- Site Kick: https://da.live/#/jaydubb12/aed-universalEditor
+- Document Authoring: https://da.live/#/jaydubb12/aed-universalEditor
+  - da.live is the content management system (CMS) at the heart of Adobe Commerce Storefront, where merchants and content teams author, organize, and manage storefront pages, blocks, and assets.
 - Admin tool: https://labs.aem.live/tools/user-admin/index.html
-- Preview: https://main--aed-universalEditor--jaydubb12.aem.page/ 
+- Preview: [https://main--aed-universalEditor--jaydubb12.aem.page/] 
 - Live: [https://main--{repo}--{owner}.aem.live/ 
 
 ## Adobe Documentation
