@@ -3,9 +3,10 @@ Sample project to evaluate, test and learn the nuances of the AEM EDS solutions 
 
 ## Environments
 Check back in the future for links / updates
-
-<!-- - Preview: https://main--aed-universalEditor--jaydubb12.aem.page/ -->
-<!-- - Live: https://main--{repo}--{owner}.aem.live/ -->
+- Site Kick: https://da.live/#/jaydubb12/aed-universalEditor
+- Admin tool: https://labs.aem.live/tools/user-admin/index.html
+- Preview: https://main--aed-universalEditor--jaydubb12.aem.page/ 
+- Live: [https://main--{repo}--{owner}.aem.live/ 
 
 ## Adobe Documentation
 
