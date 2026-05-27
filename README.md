@@ -1,13 +1,29 @@
-# Jason's Adobe Edge Delivery Playground
-Sample project to evaluate, test and learn the nuances of the AEM EDS solutions & platform
+# Adobe EDS + Adobe Universal Editor
+Sample project to evaluate, test and learn the nuances of the AEM EDS Solution integrate with the AEM Universal Editor
+
+# Project Setup
+
+## Cloud Integration
+The frontend conent is pulled from the RDE Author Env configured on the Capgemini environment. 
+
+The configuration for where the frontend app pulls the content from can be found in the file `fstab.yaml`
+
+`NOTE` There is no configured preview or publish environment, therefore the content will update automatically when the focus ischanged. 
+
+## CLI Reference
+https://www.aem.live/developer/cli-reference
+
+## Helpful Wiki
+https://deepwiki.com/adobe/helix-cli/3.1-development-server
 
 ## Environments
-- Document Authoring: https://da.live/#/jaydubb12/aed-universalEditor
+- Document Authoring: [https://da.live/#/jaydubb12/aed-universalEditor]
   - da.live is the content management system (CMS) at the heart of Adobe Commerce Storefront, where merchants and content teams author, organize, and manage storefront pages, blocks, and assets.
 - Admin tool: https://labs.aem.live/tools/user-admin/index.html
 - Preview: [https://main--aed-universalEditor--jaydubb12.aem.page/] 
-- Live: [https://main--{repo}--{owner}.aem.live/ 
-
+  - The preview feature is driven by the use of `.aem.page`
+- Live: [https://main--aed-universalEditor--jaydubb12.aem.live/]
+  - The Live site is designated by the use of `.aem.live` 
 ## Adobe Documentation
 
 Before using the aem-boilerplate, we recommand you to go through the documentation on [www.aem.live](https://www.aem.live/docs/) and [experienceleague.adobe.com](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/edge-delivery/wysiwyg-authoring/authoring), more specifically:
